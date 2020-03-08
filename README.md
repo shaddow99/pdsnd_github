@@ -17,3 +17,4 @@ In this project you will have to install and import the **ggplot2** library
 
 ### Credits
 How to calculate the mode of a dataset: https://www.tutorialspoint.com/r/r_mean_median_mode.htm
+Edit ggplot2 colors: http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
