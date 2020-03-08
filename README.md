@@ -13,6 +13,7 @@ In each file you will find a:
 -> **Question** about the dataset
 -> **Answer** in the form of a R script
 -> **Interpretation** that describes the results of the precedent R script
+In this project you will have to install and import the **ggplot2** library
 
 ### Credits
 How to calculate the mode of a dataset: https://www.tutorialspoint.com/r/r_mean_median_mode.htm
