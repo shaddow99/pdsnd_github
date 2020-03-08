@@ -1,3 +1,13 @@
+#Reading the datasets
+ny = read.csv('new-york-city.csv')
+wash = read.csv('washington.csv')
+chi = read.csv('chicago.csv')
+
+#importing libraries
+library(ggplot2)
+library(scales)
+#####################
+
 ##Question 2: What is the most common Start station (the station with the most number of trips)?
 ##Data Visualizations
 popularStation <- function(data)

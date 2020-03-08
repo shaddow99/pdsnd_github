@@ -6,10 +6,10 @@ chi = read.csv('chicago.csv')
 #importing libraries
 library(ggplot2)
 library(scales)
-######################
 #####################
 
-##Question 1: What is the most common month of travel in each of the 3 cities?
+##Question 1: 
+#What is the most common month of travel in each of the 3 cities?
 ##Data Visualizations
 popularMonth <- function(data)
 {
@@ -62,4 +62,3 @@ popularMonth.summary(wash)
 #We apply the 'popularMonth.summary' function to each dataset of the three
 #cities in order to get the mode of the 'Start.Time' column (most frequent value)
 #As we see it's 'Juin' which validate the data visualization
-#
